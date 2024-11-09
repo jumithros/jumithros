@@ -20,4 +20,3 @@ Meine Arbeit mit verschiedenen Technologien und Tools umfasst:
 ## Interessen
 Meine Leidenschaft für IT treibt mich ständig dazu, mein Wissen zu erweitern und mich mit den neuesten Entwicklungen in der Technologiewelt auseinanderzusetzen. Ich bin besonders interessiert an der Teilnahme an Open-Source-Projekten, der Erkundung von Netzwerksicherheitspraktiken und der Optimierung von Deployment-Prozessen.
 Seit Januar 2023 nutze ich auch KI, um schneller und besser zu lernen, was sehr gut funktioniert. Ich habe z. B. in 2 Monaten ein komplettes Home-Lab aufgebaut und mir Wissen angeeignet, welches ich normalerweise in 6 Monaten erlangt hätte.
-Dazu muss ich aber auch sagen, dass meine Spielzeit in GTA Online (~ 3000 Stunden) deutlich niedriger ist, als die Zeit, die ich mit ChatGPT verbraucht habe. 😆
